@@ -27,13 +27,17 @@ optional arguments:
 
 #### Download a font (.zip)
 `Syntax: python3 GoogleFontsDownloader.py -f FONT_NAME`
+  
 `Example: python3 GoogleFontsDownloader.py -f Roboto`
 #### Get the font variants
 `Syntax: python3 GoogleFontsDownloader.py -f FONT_NAME -v`
+  
 `Example: python3 GoogleFontsDownloader.py -f Roboto -v`
 #### Download a font variant (.ttf)
 `Syntax: python3 GoogleFontsDownloader.py -f FONT_NAME -t VARIANT`
+  
 `Example: python3 GoogleFontsDownloader.py -f Roboto -t 100italic`
 #### Get the CSS import url
 `Syntax: python3 GoogleFontsDownloader.py -f FONT_NAME -css`
+  
 `Example: python3 GoogleFontsDownloader.py -f Roboto -css`
